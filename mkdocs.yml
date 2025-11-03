@@ -1,0 +1,69 @@
+site_name: CSO
+site_url: https://cso.gmrze.com
+site_author: Catweb Community
+site_description: CatWeb Organization for Standardization
+
+theme:
+  name: material
+  extra:
+    footer: ""
+  custom_dir: overrides
+  copyright: "Not affiliated with Catweb."
+  logo: assets/images/logo.png
+  favicon: assets/images/logo.png
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: lime
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/TRC-Loop/CSO
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/4z4gxvxYcE
+  copyright:
+    text: "Not affiliated with Catweb."
+
+extra_css:
+  - css/extra.css
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
+  - footnotes
+  - tables
+  - attr_list
+  - def_list
+
+
+plugins:
+  - search
+  - tags
+
+nav:
+  - UI: ui/
+  - Scripting: scripting/
+  - Naming: naming/
+  - Approved: approved/
+  - CSO: 
+    - Overview: cso/index.md
+    - Tags: cso/Tags.md

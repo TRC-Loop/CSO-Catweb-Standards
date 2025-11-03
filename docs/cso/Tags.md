@@ -1,7 +1,8 @@
 ---
 title: Tags 
 tags:
-  - CSO
+    - CSO
+    - CSO-001
 ---
 
 # Tags

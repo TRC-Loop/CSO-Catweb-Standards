@@ -58,12 +58,22 @@ markdown_extensions:
 plugins:
   - search
   - tags
+  - glightbox
+  - footermatter:
+      default_author: "Unknown Author"
+      default_idea: "Unkown"
 
 nav:
-  - UI: ui/
-  - Scripting: scripting/
-  - Naming: naming/
-  - Approved: approved/
+  - UI: 
+    - none: none
+  - Scripting:
+    - none: none
+  - Naming: 
+    - none: none
+  - Management: 
+    - CSO-401: management/cso-401.md
+  - Approved:
+    - none: none
   - CSO: 
     - Overview: cso/index.md
     - Tags: cso/Tags.md

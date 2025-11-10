@@ -2,38 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://cso.gmrze.com/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-11-10</lastmod>
     </url>
     <url>
          <loc>https://cso.gmrze.com/approved/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-11-10</lastmod>
     </url>
     <url>
          <loc>https://cso.gmrze.com/cso/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-11-10</lastmod>
     </url>
     <url>
          <loc>https://cso.gmrze.com/cso/Prefixes/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-11-10</lastmod>
     </url>
     <url>
          <loc>https://cso.gmrze.com/cso/Tags/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-11-10</lastmod>
     </url>
     <url>
          <loc>https://cso.gmrze.com/management/cso-401/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-11-10</lastmod>
     </url>
     <url>
          <loc>https://cso.gmrze.com/naming/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-11-10</lastmod>
+    </url>
+    <url>
+         <loc>https://cso.gmrze.com/naming/cso-301/</loc>
+         <lastmod>2025-11-10</lastmod>
     </url>
     <url>
          <loc>https://cso.gmrze.com/scripting/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-11-10</lastmod>
     </url>
     <url>
          <loc>https://cso.gmrze.com/ui/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-11-10</lastmod>
     </url>
 </urlset>

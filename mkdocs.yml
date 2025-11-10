@@ -41,9 +41,6 @@ extra:
   copyright:
     text: "Not affiliated with Catweb."
 
-extra_css:
-  - css/extra.css
-
 markdown_extensions:
   - toc:
       permalink: true
@@ -69,7 +66,7 @@ nav:
   - Scripting:
     - none: none
   - Naming: 
-    - none: none
+    - CSO-301: naming/cso-301.md
   - Management: 
     - CSO-401: management/cso-401.md
   - Approved:
